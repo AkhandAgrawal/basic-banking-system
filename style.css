@@ -1,0 +1,170 @@
+.container-fluid {
+  padding: 0%;
+}
+
+.body {
+  text-align: center;
+  font-family: "Cambria";
+}
+
+.add{
+  padding-top: 5%;
+}
+
+.content{
+  padding: 5% 10%;
+}
+
+.btn{
+    margin-left: 4%;
+}
+
+.btn1{
+  text-align: center;
+  margin: auto;
+}
+
+/* TitleSection */
+.big-heading {
+  font-size: 3rem;
+  text-align: center;
+  line-height: 1.5;
+  font-family: "Cambria-Bold";
+}
+
+#title {
+  background-color: #5419d4;
+  color: #fff;
+  
+}
+
+button:hover,h2:hover{
+	transform: scale(1.1);
+}
+
+.box2{
+  padding: 2%;
+}
+
+/* navigationsection */
+.navbar-heading {
+  font-size: 1.5rem;
+  font-family: "Times New Roman";
+  padding: 0 0;
+}
+
+.nav-item {
+  color: #fff;
+  padding: 0 18px;
+}
+
+.description {
+  font-size: 2.5rem;
+  font-family: "Cambria";
+  text-align: left;
+  padding: 0 5%;
+}
+
+.m-img {
+  right: 30%;
+  width: 80%
+}
+
+img{
+  border-radius: 15px;
+}
+
+/* testimonialsection */
+#testimonials {
+  text-align: center;
+  z-index: 1;
+  background-color: #9b78c2;
+
+}
+
+table{
+  padding-top: 5%;
+}
+
+.testimonial-text {
+  font-size: 2.5rem;
+  padding-bottom: 7%;
+  line-height: 1.5;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.testimonial-image {
+  width: 50%;
+}
+
+#press {
+  padding: 100px;
+  color: white;
+  text-align: center;
+  padding-bottom: 7%;
+}
+
+.press-logo {
+  width: 10%;
+  margin: 20px 15px 10px;
+}
+
+/* footerSection */
+#footer {
+  background-color: #5419d4;
+  padding: 2% 0%;
+  color: #fff;
+  text-align: center;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+/* Customer-service */
+/*feature-box section*/
+#features {
+  padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+  text-align: center;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+}
+
+.feature-box {
+  padding: 5%;
+}
+
+.icon {
+  color: #4B0082;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #4B0082;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap');
+
+.nav-link{
+	margin-right: 15px;
+	color:#2F363F;
+	letter-spacing: 0.5px;
+	transition: 0.5s;
+}
+
+.navbar-brand{
+	color: #4C4B4B;
+	letter-spacing: 0.5px;
+}
+
+.my-info{
+  padding: 2%;
+}
